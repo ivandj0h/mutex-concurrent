@@ -10,15 +10,12 @@ just clone this repo by running your terminal & typing :
 `npm install`
 
 edit this area on `package.json`
-`
+```javascript
   "scripts": {
-    ```diff
-     - "test": "echo \"Error: no test specified\" && exit 1"
-    ```
-    ```diff
-     + "start": "node index.js"
-    ```
+
+     <span style='color:red;'> - "test": "echo \"Error: no test specified\" && exit 1"</span>
+     <span style='color:green;'> + "start": "node index.js"</span>
   },
-`
+```
 
 `npm start`
