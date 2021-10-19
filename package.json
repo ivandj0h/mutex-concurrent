@@ -1,0 +1,20 @@
+{
+  "name": "mutex-concurrent",
+  "version": "1.0.0",
+  "description": "a synchronize concurrent processes running on different threads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandi1980/mutex-concurrent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandi1980/mutex-concurrent/issues"
+  },
+  "homepage": "https://github.com/ivandi1980/mutex-concurrent#readme"
+}
